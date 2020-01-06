@@ -1,0 +1,19 @@
+channels:
+ - defaults
+ - conda-forge
+ - alubbock
+dependencies:
+ - biopython
+ - imageio
+ - matplotlib
+ - numpy
+ - scipy
+ - scikit-learn
+ - scikit-image
+ - seaborn
+ - pandas
+ - pysb
+ - opencv
+ - pip:
+   - imutils
+   - prody
